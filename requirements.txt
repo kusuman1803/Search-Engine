@@ -27,4 +27,4 @@ unstructured
 numexpr
 huggingface-hub
 gradio
-duckduckgo_search
+ddgs
